@@ -1,0 +1,12 @@
+# Local secrets
+.env
+.env.local
+
+# Dependencies
+node_modules/
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
